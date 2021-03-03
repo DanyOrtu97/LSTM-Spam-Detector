@@ -5,8 +5,9 @@ Spam Detector using RNN network for classification of spam and ham
 
 ## Software versions
 ---
-Ubuntu 20.04 or others
-Python 3.8
+Ubuntu 20.04 or precedent versions  
+Python 3.8  
+Tensorflow 2.3.0
 
 
 ## Run the project 
