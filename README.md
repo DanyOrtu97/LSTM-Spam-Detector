@@ -3,18 +3,13 @@ Spam Detector using RNN network for classification of spam and ham
 ---
 
 
-## Software versions
----
-Ubuntu 20.04 or precedent versions  
-Python 3.8  
-Tensorflow 2.3.0
 
 
-## Run the project 
+## Prerequisites 
 ---
 
 #### 1 Create a project folder
-
+Open a new terminal tab on your ubuntu machine and type:
 ```
 mkdir SpamDetector
 cd SpamDetector
@@ -27,15 +22,13 @@ On the same SpamDetector folder
 ```
 git clone https://github.com/DanyOrtu97/LSTM-Spam-Detector.git
 ```
+#### 3 Install requirements
+---
 
-#### 3 Download the Dataset
-
-Download "spam.csv" file from https://www.kaggle.com/uciml/sms-spam-collection-dataset by this button:
-
-![Downaload spam.csv](./Usefull_screenshoots_for_readme_file/SpamcsvDownload.png)
-
-
-copy spam.csv into SpamDetector/LSTM-Spam-Detector/ directory
+```
+cd LSTM-Spam-Detector
+pip3 install -r requirements.txt
+```
 
 
 #### 4 Run the project
