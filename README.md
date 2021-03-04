@@ -22,8 +22,8 @@ On the same SpamDetector folder
 ```
 git clone https://github.com/DanyOrtu97/LSTM-Spam-Detector.git
 ```
+
 #### 3 Install requirements
----
 
 ```
 cd LSTM-Spam-Detector
