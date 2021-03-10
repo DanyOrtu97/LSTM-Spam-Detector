@@ -3,7 +3,9 @@ Spam Detector using RNN network for classification of spam and ham
 ---
 
 
+## Note
 
+A commented version of the code can be found in the jupyter notebook file (SpamDetector.ipynb)
 
 ## Prerequisites 
 ---
