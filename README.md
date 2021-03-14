@@ -40,4 +40,7 @@ python3 SpamDetector.py
 ```
 
 #### NOTE
-On "Test_Hyperparameters_results" you can find our scripts for model testing (including plots and plotting code)
+On "Test_Hyperparameters_results" you can find:
+  - our scripts for model testing with hyperparameters (including plots and plotting code)
+  - our scripts for different neural network models
+  - our scripts for classic ML algorithms (like KNN, Random forest, SVM, Naive Bayes and Binary classifier)
