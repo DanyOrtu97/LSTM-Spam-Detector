@@ -38,3 +38,6 @@ pip3 install -r requirements.txt
 ```
 python3 SpamDetector.py
 ```
+
+#### NOTE
+On "Test_Hyperparameters_results" you can find our scripts for model testing (including plots and plotting code)
